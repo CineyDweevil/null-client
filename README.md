@@ -7,5 +7,5 @@ You CANNOT use this source code to profit or something like this.
 
 
 # CREDITS
-My discord tag is six#3337
+My discord tag is six#3336
 You can buy my Ghost Client at https://skyfall.wtf
